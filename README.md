@@ -49,7 +49,7 @@ MSc student in **Computer Science & Software Engineering** at **Linköping Unive
 
 ## 💼 What I do day to day
 
-I work as a Security Analyst in the fintech space, with a focus on automation engineering:
+Alongside my studies, I work as a Security Analyst in the fintech space, with a focus on automation engineering:
 
 - **Automation with Python:** building scripts, pipelines and internal tools that cut down on repetitive security and operations work.
 - **Internal tooling & dashboards:** designing and building web-based tools that help analysts monitor, investigate and track security events.
